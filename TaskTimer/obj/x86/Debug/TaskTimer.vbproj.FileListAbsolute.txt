@@ -1,0 +1,11 @@
+D:\_VB\timer\TaskTimer\TaskTimer\bin\Debug\TaskTimer.exe
+D:\_VB\timer\TaskTimer\TaskTimer\bin\Debug\TaskTimer.pdb
+D:\_VB\timer\TaskTimer\TaskTimer\bin\Debug\TaskTimer.xml
+D:\_VB\timer\TaskTimer\TaskTimer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\_VB\timer\TaskTimer\TaskTimer\obj\x86\Debug\TaskTimer.Form1.resources
+D:\_VB\timer\TaskTimer\TaskTimer\obj\x86\Debug\TaskTimer.Resources.resources
+D:\_VB\timer\TaskTimer\TaskTimer\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\_VB\timer\TaskTimer\TaskTimer\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\_VB\timer\TaskTimer\TaskTimer\obj\x86\Debug\TaskTimer.exe
+D:\_VB\timer\TaskTimer\TaskTimer\obj\x86\Debug\TaskTimer.xml
+D:\_VB\timer\TaskTimer\TaskTimer\obj\x86\Debug\TaskTimer.pdb
